@@ -1,6 +1,8 @@
 # Profile-Overview
-An explanatory guide of the 'what's what' of my Github.
+[External link to resume](https://docs.google.com/document/d/1nV2na3xW5m9lrbahLuqDkc9pNWoAXt7rdUYqxXBBlkY/edit?usp=sharing)
 
+
+An explanatory guide of the 'what's what' of my Github.
 
 Some code samples from various analysis projects I've worked on can be found in: https://github.com/Arcamped/Analysis-Samples     
 
