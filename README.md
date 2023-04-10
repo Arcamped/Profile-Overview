@@ -1,5 +1,5 @@
 # Profile-Overview
-[External link to resume](https://docs.google.com/document/d/1nV2na3xW5m9lrbahLuqDkc9pNWoAXt7rdUYqxXBBlkY/edit?usp=sharing)
+[Resume](https://docs.google.com/document/d/1Txw2rASSYZm9yc1PTLaPcW41w4rnHrNSjz3Kqritekk/edit?usp=sharing)
 
 
 An explanatory guide of the 'what's what' of my Github.
