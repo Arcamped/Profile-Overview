@@ -4,8 +4,8 @@
 
 An explanatory guide of the 'what's what' of my Github.
 
-## Prompt Engineering (Meed and RPG) ##
-[Git](https://github.com/Arcamped/Prompt-Engineering)  
+## [Prompt Engineering](https://github.com/Arcamped/Prompt-Engineering)   (Meed and RPG) ##
+ 
 Meed is a start-up a cofounded that allows people to challenge each other (e.g. Do 10 push-ups in the snow, shirtless). The code is still in use (https://meed.app/), so I cannot post it to Git, but I can tell you I built the Twitch and Discord integrations using JavaScript (as well as some other backend code). To test out the Discord version, head over to our Discord and use slash commands to get started! I also designed and built our challenge suggestion engine which uses the GPT series from OpenAI. To see how I approached the prompt engineering, please see here: https://github.com/Arcamped/Prompt-Engineering/blob/main/Meed
 
 Another project I'm working on is using transformers (once again, primarily the GPT series from OpenAI) to explore the limits of AI-driven storytelling. I started this project in early 2022 and postponed it after a few months. Of the models available at the time, only davinci had the power to reliably generate reasonably interesting stories and maintain a consistent plot -- this also meant it wasn't a financially affordable project. With the reduction in pricing and increased power of recent generations, I've resumed work. Much of the work is private, but to see an example of one approach I'm using, please see: https://github.com/Arcamped/Prompt-Engineering and navigate to "GPT RPG".
