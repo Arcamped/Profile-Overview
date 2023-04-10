@@ -10,19 +10,19 @@ Meed is a start-up a cofounded that allows people to challenge each other (e.g. 
 
 Another project I'm working on is using transformers (once again, primarily the GPT series from OpenAI) to explore the limits of AI-driven storytelling. I started this project in early 2022 and postponed it after a few months. Of the models available at the time, only davinci had the power to reliably generate reasonably interesting stories and maintain a consistent plot -- this also meant it wasn't a financially affordable project. With the reduction in pricing and increased power of recent generations, I've resumed work. Much of the work is private, but to see an example of one approach I'm using, please see: https://github.com/Arcamped/Prompt-Engineering and navigate to "GPT RPG".
 
-## Evolutionary Search Space ##
+## [Evolutionary Search Space](https://github.com/Arcamped/Amino-Acid-Project-Public) ##
 
 During my grad school program I had an interesting idea: could one apply tools from Computational Complexity Theory to Evolution? That question has guided my independent research since then. The title "Evolutionary Search Space" borrows from the "Search Space" used in mathematics and refers to the space nature has to search through to find the solution to an evolutionary "problem".
 
 My own exploration has led to a project that looks at knowledge representation in nature, specifically when it comes to codons and their resultant amino acids. In technical terms, we treat amino acids as heterogeneous hypergraphs and attempt to build them in a series of discrete time steps using their base sequence as rules for graph generation. In non-technical terms, if one is assembling a puzzle and the first instruction is "A", does it matter whether the second instruction is a "G" or a "C"? If it does matter, we're dealing with one interpretation framework; and if it doesn't, another.
 
-The program I wrote to tackle this program is written in Python; it features an algorithm I designed to avoid brute force searching through all possible combinations, and the usual work in Pandas (and so data cleaning) one expects from such a project. The work is ongoing, but you can find the code here (feel free to test out your own Interpretation Frameworks :) :https://github.com/Arcamped/Amino-Acid-Project-Public
+The program I wrote to tackle this program is written in Python; it features an algorithm I designed to avoid brute force searching through all possible combinations, and the usual work in Pandas (and so data cleaning) one expects from such a project. The work is ongoing, but you can find the code here (feel free to test out your own Interpretation Frameworks :) ) :https://github.com/Arcamped/Amino-Acid-Project-Public
 
-## Grad School Analysis and Econometrics ##
+## [Grad School Analysis and Econometrics](https://github.com/Arcamped/Analysis-Samples) ##
 I received a Masters in Agricultural and Applied Economics (focus in Resource Energy Demand Analysis) from the University of Wisconsin, Madison in 2018.
 The work I did there is no longer reflective of my programming skills, but a historical view of what I've done in R might interest some people. The project in question looked at the efficacy of air conditioner cycling programs. Without further ado: https://github.com/Arcamped/Analysis-Samples     
 
-## Snow Wars: Animating in VR ##
+## [Snow Wars: Animating in VR](https://www.youtube.com/@michaelcampbell546) ##
 
 Before attending grad school I worked on a fairly serious project (800 - 1000 hours) with the intent of pursuing a career in storytelling in VR. Upon the conclusion of said project (Snow Wars), I realized my passion lay in storytelling and *not* animating. Still, I had a great time learning and applying concepts in Maya. If you want to see a story high on concept and low on execution (animation is quite hard), here you are: https://www.youtube.com/@michaelcampbell546
 
